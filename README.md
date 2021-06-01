@@ -7,3 +7,6 @@ short note:
 4. seed the admin manually "npx sequelize-cli db:seed:all"
 
 (so sorry theres not enough time for me to make API doc)
+
+.env 
+JWT_SECRET_KEY = PTBE
